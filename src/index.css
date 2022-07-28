@@ -37,7 +37,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(C:\Users\HP\Desktop\react-portfolio-website-1\src\assets\image\bg-texture.png);
+    /* background-image: url(C:\Users\HP\Desktop\react-portfolio-website-1\src\assets\image\bg-texture.png); */
 }
 .container {
     width: var(--container-width-lg);
