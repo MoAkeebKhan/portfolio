@@ -20,7 +20,7 @@ const Portfolio = () => {
           </div>
           <h3>HEADER OF PORTFOLIO</h3>
           <div className="portfolio__item-cta">
-          <a href="http://github.com" className='btn' target='_blank'>Github</a>
+          <a href="https://github.com/MoAkeebKhan/portfolio.git" className='btn' target='_blank'>Github</a>
           </div>
         </article>
         <article className="portfolio__items">
@@ -29,7 +29,7 @@ const Portfolio = () => {
           </div>
           <h3>ANIMATED IMAGE SLIDES</h3>
           <div className="portfolio__item-cta">
-          <a href="http://github.com" className='btn' target='_blank'>Github</a>
+          <a href="https://github.com/MoAkeebKhan/portfolio.git" className='btn' target='_blank'>Github</a>
           </div>
         </article>
         <article className="portfolio__items">
@@ -38,7 +38,7 @@ const Portfolio = () => {
           </div>
           <h3>EXPERIENCE BLOG</h3>
           <div className="portfolio__item-cta">
-          <a href="http://github.com" className='btn' target='_blank'>Github</a>
+          <a href="https://github.com/MoAkeebKhan/portfolio.git" className='btn' target='_blank'>Github</a>
           </div>
         </article>
         <article className="portfolio__items">
@@ -47,7 +47,7 @@ const Portfolio = () => {
           </div>
           <h3>SKILLS BLOG</h3>
           <div className="portfolio__item-cta">
-          <a href="http://github.com" className='btn' target='_blank'>Github</a>
+          <a href="https://github.com/MoAkeebKhan/portfolio.git" className='btn' target='_blank'>Github</a>
           </div>
         </article>
         <article className="portfolio__items">
@@ -56,7 +56,7 @@ const Portfolio = () => {
           </div>
           <h3>HTML SCRIPT</h3>
           <div className="portfolio__item-cta">
-          <a href="http://github.com" className='btn' target='_blank'>Github</a>
+          <a href="https://github.com/MoAkeebKhan/portfolio.git" className='btn' target='_blank'>Github</a>
           </div>
         </article>
         <article className="portfolio__items">
@@ -65,7 +65,7 @@ const Portfolio = () => {
           </div>
           <h3>CSS CODE</h3>
           <div className="portfolio__item-cta">
-          <a href="http://github.com" className='btn' target='_blank'>Github</a>
+          <a href="https://github.com/MoAkeebKhan/portfolio.git" className='btn' target='_blank'>Github</a>
           </div>
         </article>
       </div>
